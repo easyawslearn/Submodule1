@@ -1,0 +1,1 @@
+myfile = open('file.txt')
